@@ -72,3 +72,8 @@ npm run dev
 ```
 Open your browser and navigate to :
 http://localhost:5173/
+
+## Samples
+### Dashboard
+![Dashboard](./Dashboard (2))
+
