@@ -45,6 +45,7 @@ cd Campaign-Manager
 Frontend
 ```bash
 cd Frontend
+cd campaignFrontend
 npm install
 ```
 Backend
@@ -66,6 +67,7 @@ npm start
 ### 4. Run the Server
 ```bash
 cd Frontend
+cd campaignFrontend
 npm run dev
 ```
 Open your browser and navigate to :
