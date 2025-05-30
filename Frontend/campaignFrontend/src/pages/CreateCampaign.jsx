@@ -26,6 +26,10 @@ export default function CreateCampaign() {
             alert("End date can not be in the past or present !");
             return;
         }
+        if(endDate<startDate){
+            alert("End date can not be less than StartDate !");
+            return;
+        }
         try {
             await axios.post('http://localhost:3000/api/campaigns', form);
         } catch (error) {
