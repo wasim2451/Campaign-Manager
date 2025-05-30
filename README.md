@@ -75,5 +75,9 @@ http://localhost:5173/
 
 ## Samples
 ### Dashboard
-![Dashboard](./Dashboard (2))
+![Dashboard](./Dashboard)
+### Campaign Details
+![CampaignDetails](./CampaignDetails)
+### Create Campaigns
+![CreateCampaign](./Create)
 
