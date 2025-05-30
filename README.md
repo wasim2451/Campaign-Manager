@@ -39,7 +39,7 @@ A full-stack web application to **create**, **filter**, **search**, and **analyz
 
 ```bash
 git clone https://github.com/wasim2451/Campaign-Manager.git
-cd CampaignManager
+cd Campaign-Manager
 ```
 ### 2. Install dependencies
 Frontend
