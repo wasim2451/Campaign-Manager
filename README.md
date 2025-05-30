@@ -32,18 +32,13 @@ A full-stack web application to **create**, **filter**, **search**, and **analyz
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here once your UI is ready (dashboard, filters, summary page, etc.)_
-
----
 
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/wasim2451/CampaignManager.git
+git clone https://github.com/wasim2451/Campaign-Manager.git
 cd CampaignManager
 ```
 ###2. Install dependencies
