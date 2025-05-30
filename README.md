@@ -41,31 +41,31 @@ A full-stack web application to **create**, **filter**, **search**, and **analyz
 git clone https://github.com/wasim2451/Campaign-Manager.git
 cd CampaignManager
 ```
-###2. Install dependencies
+### 2. Install dependencies
 Frontend
 ```bash
-cd client
+cd Frontend
 npm install
 ```
 Backend
 ```bash
-cd server
+cd Backend
 npm install
 ```
-###3.Set up environment variables
+### 3.Set up environment variables
 ```bash
 PORT=3000
 MONGO_URI=<USER MONGO_URI>
 ```
-###4. Run the Server
+### 4. Run the Server
 ```bash
-cd server
+cd Backend
 npm start
 ```
-###5. Run the Frontend
-###4. Run the Server
+### 5. Run the Frontend
+### 4. Run the Server
 ```bash
-cd client
+cd Frontend
 npm run dev
 ```
 Open your browser and navigate to :
